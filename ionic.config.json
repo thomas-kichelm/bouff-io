@@ -1,0 +1,8 @@
+{
+  "name": "bouff.io",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react",
+  "id": "b62cc75b"
+}

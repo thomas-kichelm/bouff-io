@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "bouff.io",
+	"webDir": "build",
+	"bundledWebRuntime": false
+}
